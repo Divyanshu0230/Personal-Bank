@@ -2,12 +2,6 @@
 # Secure ATM
 This project is made to make **Automated teller machine** more secure. It's simple nowadays to get your pin using hidden cameras, false keyboards, etc. So, here we are with a different idea to let your pin secure.
 
-## Community
-
-- [LinkedIn](https://www.linkedin.com/in/divyanshu-raj-0b1b1b1b1/)
-- [Instagram](https://www.instagram.com/divyanshu_raj_0b1b1b1b1/)
-- [Twitter](https://twitter.com/divyanshu_raj_)
-
 ## Screenshots
 
 | Welcome Page | ATM ID | PIN | Result |
@@ -16,6 +10,3 @@ This project is made to make **Automated teller machine** more secure. It's simp
 
 ## Demo
 ![](demo.gif)
-
-## License
-[MIT](LICENSE)
